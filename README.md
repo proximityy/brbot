@@ -6,8 +6,11 @@ Automatically manages Zoom calls so you can focus on the things that really matt
 3. Remote notifications
 4. Event triggers
 5. Auto joining/leaving
+# System requirements:
+1. MacOS Catalina 10.10 or later
+2. User admin access
 # To run the program:
-1. Download dependencies, make sure you're on Catalina 10.10 or later
+1. Download dependencies
 2. Run program, you may need to go into System preferences -> Security to run unverified script, accept warnings
 3. Go to System Preferences -> Security & Privacy -> Privacy -> Accessibility
 4. Unlock using system admin account and add BR Bot*
