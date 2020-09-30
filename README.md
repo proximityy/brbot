@@ -1,4 +1,4 @@
-# Zoom Breakout Room Bot
+# Zoom Breakout Room Bot (+ more)
 Automatically manages Zoom calls so you can focus on the things that really matter.
 # Features include:
 1. Automatic breakout rooms
@@ -11,8 +11,11 @@ Automatically manages Zoom calls so you can focus on the things that really matt
 2. User admin access
 # To run the program:
 1. Download dependencies
-2. Run program, you may need to go into System preferences -> Security to run unverified script, accept warnings
-3. Go to System Preferences -> Security & Privacy -> Privacy -> Accessibility
-4. Unlock using system admin account and add BR Bot *You may need to use sudo to initiate without root access
-5. Quit BR Bot and re-open, should work normally
+2. Run `chmod +x app.app/Contents/MacOS/*` to change the binary executable value
+3. Open the program; the program will be blocked immediately
+4. Open System Preferences -> Security & Privacy -> Open Anyway
+5. Quit program
+6. Go to System Preferences -> Security & Privacy -> Privacy -> Accessibility
+7. Unlock using system admin account and set BR Bot to allowed access *You may need to use sudo to initiate without root access
+8. Quit BR Bot and re-open, should work normally
 
